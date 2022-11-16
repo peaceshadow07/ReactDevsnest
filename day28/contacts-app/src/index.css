@@ -1,0 +1,12 @@
+*,*::after,::before{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+:root{
+    height: 100vh;
+}
